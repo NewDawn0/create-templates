@@ -36,9 +36,13 @@ create <yourfile>.py
 ```bash
 create myfile.c
 ```
+Or if executed the optional command down below
+```bash
+touch myfile.c
+```
 </br>
 
-## Additional
+## Optional
 replace touch with create run:
 ```bash
 shell=$(echo $SHELL | awk -F '/' '{print $3}')
