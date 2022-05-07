@@ -1,0 +1,18 @@
+# ===> Imports & Libraries
+
+
+# ===> Constants & Global Variables
+# <Variable description>
+
+
+
+# ===> Functions & Classes
+# <Function description>
+
+
+
+# ===> Main Function
+# <main -> <your description>
+def main():
+    # <your code>
+
