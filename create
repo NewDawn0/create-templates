@@ -2,18 +2,18 @@
 file=$1
 extension="${file##*.}"
 case $extension in
-    c)     touch $file && cat "$HOME/ndos/create/c.txt" > $file;;
-    cpp)   touch $file && cat "$HOME/ndos/create/cpp.txt" > $file;;
-    cs)    touch $file && cat "$HOME/ndos/create/csharp.txt" > $file;;
-    go)    touch $file && cat "$HOME/ndos/create/go.txt" > $file;;
-    html)  touch $file && cat "$HOME/ndos/create/html.txt" > $file;;
-    java)  touch $file && cat "$HOME/ndos/create/java.txt" > $file;;
-    js)    touch $file && cat "$HOME/ndos/create/js.txt" > $file;;
-    kt)    touch $file && cat "$HOME/ndos/create/kotlin.txt" > $file;;
-    py)    touch $file && cat "$HOME/ndos/create/python.txt" > $file;;
-    rs)    touch $file && cat "$HOME/ndos/create/rust.txt" > $file;;
-    sh)    touch $file && cat "$HOME/ndos/create/sh.txt" > $file;;
-    zsh)   touch $file && cat "$HOME/ndos/create/sh.txt" > $file;;
-    fish)  touch $file && cat "$HOME/ndos/create/sh.txt" > $file;;
+    c)     touch $file && cat "$HOME/.ndos/create/c.txt" > $file;;
+    cpp)   touch $file && cat "$HOME/.ndos/create/cpp.txt" > $file;;
+    cs)    touch $file && cat "$HOME/.ndos/create/csharp.txt" > $file;;
+    go)    touch $file && cat "$HOME/.ndos/create/go.txt" > $file;;
+    html)  touch $file && cat "$HOME/.ndos/create/html.txt" > $file;;
+    java)  touch $file && cat "$HOME/.ndos/create/java.txt" > $file;;
+    js)    touch $file && cat "$HOME/.ndos/create/js.txt" > $file;;
+    kt)    touch $file && cat "$HOME/.ndos/create/kotlin.txt" > $file;;
+    py)    touch $file && cat "$HOME/.ndos/create/python.txt" > $file;;
+    rs)    touch $file && cat "$HOME/.ndos/create/rust.txt" > $file;;
+    sh)    touch $file && cat "$HOME/.ndos/create/sh.txt" > $file;;
+    zsh)   touch $file && cat "$HOME/.ndos/create/sh.txt" > $file;;
+    fish)  touch $file && cat "$HOME/.ndos/create/sh.txt" > $file;;
     *)     echo "Unsupported filename" && touch $file;;
 esac
