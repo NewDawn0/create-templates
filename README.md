@@ -7,7 +7,7 @@ git clone https://github.com/NewDawn0/create-templates.git
 cd create-templates
 mv create /usr/local/bin/
 mkdir -p $HOME/.ndos/create/
-mv templates/* $HOME/ndos/create/
+mv templates/* $HOME/.ndos/create/
 ```
 </br>
 
