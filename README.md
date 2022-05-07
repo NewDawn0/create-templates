@@ -6,8 +6,8 @@ A command line util to add minimal boilerplate code for oranisation to new files
 git clone https://github.com/NewDawn0/create-templates.git
 cd create-templates
 cp create /usr/local/bin
-mkdir -p $HOME/.ndos/create
-cp templates/* $HOME/ndos/create
+mkdir -p $HOME/.ndos/create/
+cp templates/* $HOME/ndos/create/
 ```
 </br>
 
