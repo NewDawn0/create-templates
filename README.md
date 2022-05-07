@@ -45,7 +45,7 @@ touch myfile.c
 ## Optional
 replace touch with create run:
 ```bash
-shell=$(echo $SHELL | awk -F '/' '{print $3}')
-echo "###### create ########"
-echo "alias touch='create $1'" >> ${shell}rc
+Shell=$(echo $SHELL | awk -F '/' '{print $3}')
+echo "###### create ########" >> $HOME/.${Shell}rc
+echo "alias touch='create $1'" >> $HOME/.${Shell}rc
 ```
