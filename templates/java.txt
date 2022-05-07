@@ -1,5 +1,5 @@
 // ===> Package name
-package <org.your.package.name
+package <org.your.package.name>
 
 // ===> Imports & Libraries
 
