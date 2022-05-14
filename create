@@ -15,5 +15,5 @@ case $extension in
     sh)    touch $file && cat "$HOME/.ndos/create/sh.txt" > $file;;
     zsh)   touch $file && cat "$HOME/.ndos/create/sh.txt" > $file;;
     fish)  touch $file && cat "$HOME/.ndos/create/sh.txt" > $file;;
-    *)     echo "Unsupported filename" && touch $file;;
+    *)     touch $file;;
 esac
