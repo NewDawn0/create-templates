@@ -1,21 +1,18 @@
-// ===> Package name
 package <org.your.package.name>
 
-// ===> Imports & Libraries
-
-
-// ===> Constants & Global Variables
-// <Variable description>
+////Imports
 
 
 
-// ===> Functions & Classes
-// <Function description>
+//// Global Variables
 
 
 
-// ===> Main Function
-// <main -> <your description>
+//// Functions & Classes
+
+
+
+//// Main Function
 fun main() {
     // your code
 

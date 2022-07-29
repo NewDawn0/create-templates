@@ -1,23 +1,20 @@
-// ===> Package name
-package main
+package main;
 
-// ===> Imports & Libraries
+//// Imports
 import "fmt"
 
-// ===> Constants & Global Variables
-// <Variable description>
+
+
+//// Global Variables
 
 
 
-// ===> Functions & Classes
-// <Function description>
+//// Functions & Classes
 
 
 
-// ===> Main Function
-// <main -> <your description>
+//// Main Function
 func main() {
     // <your code>
-
 
 }

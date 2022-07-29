@@ -1,18 +1,18 @@
 #!/bin/bash
-# ===> Constants & Global Variables
-# <Variable description>
+#### Global Variables
 
 
 
-# ===> Functions
-# <Function description>
+#### Functions
 
 
 
-# ===> Main Function
-# <main -> <your description>
+#### Main Function
 main() {
     # <your code>
 
 
 }
+
+#### Exec main
+main

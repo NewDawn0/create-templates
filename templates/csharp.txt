@@ -1,24 +1,22 @@
-// ===> Package name
-namespace <YourNamespace>
-
-// ===> Imports & Libraries
-using System;
+namespace Main {
 
 
-// ===> Constants & Global Variables
-// <Variable description>
+//// Imports
 
 
 
-// ===> Functions & Classes
-// <Function description>
+//// Global Variables
 
 
 
-// ===> Main Function
-// <main -> <your description>
-public class Main {
-    public static void Main() {
-        // <your code>
+//// Functions & Classes
 
+
+
+//// Main Function
+class main {
+    static void Main(string[] args) {
+        // your code
+    }
+}
 }

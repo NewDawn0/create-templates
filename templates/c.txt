@@ -1,21 +1,17 @@
-// ===> Imports & Libraries
+//// Imports
 #include <stdio.h>
 
 
-// ===> Constants & Global Variables
-// <Variable description>
+//// Global Variables
 
 
 
-// ===> Functions & Classes
-// <Function description>
+//// Functions & Classes
 
 
 
-// ===> Main Function
-// <main -> <your description>
+//// Main Function
 int main(int argc, char *argv[]) {
-    // <your code>
-
-
+    
+    return 0;
 }

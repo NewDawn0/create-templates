@@ -1,20 +1,20 @@
-// ===> Imports & Libraries
-
-
-// ===> Constants & Global Variables
-// <Variable description>
+//// Imports
 
 
 
-// ===> Functions & Classes
-// <Function description>
+//// Global Variables
 
 
 
-// ===> Main Function
-// <main -> <your description>
+//// Functions & Classes
+
+
+
+//// Main function
 main = () => {
     // <your code>
 
-
 }
+
+//// Exec main
+main()

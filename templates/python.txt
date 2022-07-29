@@ -1,23 +1,21 @@
 #!/usr/bin/env python3
-# ===> Imports & Libraries
-
-
-# ===> Constants & Global Variables
-# <Variable description>
+#### Imports
 
 
 
-# ===> Functions & Classes
-# <Function description>
+#### Global Variables
 
 
 
-# ===> Main Function
-# <main -> <your description>
+#### Functions & Classes
+
+
+
+#### Main Function
 def main():
-    # <your code>
     pass
 
-# ===> Execute Main Function
+
+#### Exec main
 if __name__ == '__main__':
     main()
